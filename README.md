@@ -13,6 +13,7 @@ Universal Robots UR5e, UFactory xArm7, ALOHAをはじめ、単腕・双腕の操
     - [x] UR5e + Robotiq 2F-85のURDF表示
     - [x] Google-researchのPlayroomsをMJCF表示
     - [ ] URDF + MJCFの表示
+    - [ ] ローカルディレクトリからmaterial (texture)をロードする
     - [ ] UR5eをインタラクティブマーカで操作
     - [ ] UR5eおよびグリッパへ指令値を送り操作
     - [ ] UR5eによる環境物の操作テスト

@@ -57,6 +57,7 @@ distantLight.CreateIntensityAttr(500)
 ![](images/mjcf_python_import.png)
 
 ### URDF + MJCFの表示
+### ローカルディレクトリからmaterial (texture)をロードする
 ### UR5eをインタラクティブマーカで操作
 ### UR5eおよびグリッパへ指令値を送り操作
 ### UR5eによる環境物の操作テスト
